@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #1A2427;
+  color: rgb(217, 223, 224);
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 18px;
+  text-transform: lowercase;
+  font-style: italic;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
